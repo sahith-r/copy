@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h> 
+dss
 
 int a[10],top=-1,max,iteam;
 
